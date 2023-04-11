@@ -23,8 +23,8 @@ int main()
     return 0;
 }
 
-input:
-abbbb
-aaaaaaaa
-akash
-abb
+// input:
+// abbbb
+// aaaaaaaa
+// akash
+// abb
