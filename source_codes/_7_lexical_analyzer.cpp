@@ -169,7 +169,7 @@ void parse(char *str, vector<vector<string>> &tokens)
 
 int main()
 {
-    char c[100] = "int a = b + c";
+    char c[100] = "int a = b + c"; //this is the input
 
     vector<string> operators;
     vector<string> keywords;
