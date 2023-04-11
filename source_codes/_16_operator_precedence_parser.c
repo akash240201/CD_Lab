@@ -148,3 +148,6 @@ int main()
     parse();
     return 0;
 }
+
+// input: 
+// 9+8*2
