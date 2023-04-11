@@ -68,3 +68,11 @@ int main()
     fun(ch);
     return 0;
 }
+
+
+// input: 
+// - 
+// +
+// =
+// <
+// >
