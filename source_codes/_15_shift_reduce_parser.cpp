@@ -119,4 +119,7 @@ int main()
     else // else reject
         printf("Reject\n");
 }
-// This code is contributed by Shubhamsingh10
+
+// This program is in C++
+// input: 
+// NO input
